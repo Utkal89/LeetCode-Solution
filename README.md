@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Utkal89/LeetCode-Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/Utkal89/LeetCode-Solution/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Utkal89/LeetCode-Solution/tree/master/0268-missing-number) |
 | [0475-heaters](https://github.com/Utkal89/LeetCode-Solution/tree/master/0475-heaters) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Utkal89/LeetCode-Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Utkal89/LeetCode-Solution/tree/master/0268-missing-number) |
 | [0475-heaters](https://github.com/Utkal89/LeetCode-Solution/tree/master/0475-heaters) |
 | [0704-binary-search](https://github.com/Utkal89/LeetCode-Solution/tree/master/0704-binary-search) |

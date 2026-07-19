@@ -7,7 +7,7 @@ class Solution {
            if(arr[low]<=arr[mid]){
             if(arr[low]<=target && target<arr[mid]) high = mid-1;
             else low = mid+1;
-           }else{
+           }if(arr[high]>=arr[mid]){
             if(arr[high]>=target && target> arr[mid]) low = mid+1;
             else high =mid-1;
            }

@@ -1,16 +1,16 @@
 class Solution {
     public int search(int[] arr, int target) {
-        int low=0;int high=arr.length-1;
-        while(low<=high){
-           int mid=(low+high)/2;
-           if(arr[mid]==target) return mid;
-           if(arr[low]<=arr[mid]){
-            if(arr[low]<=target && target<=arr[mid]) high = mid-1;
-            else low = mid+1;
-           }if(arr[high]>=arr[mid]){
-            if(arr[high]>=target && target>= arr[mid]) low = mid+1;
-            else high =mid-1;
-           }
+        int lo=0;int hi=arr.length-1;
+        while(lo<=hi){
+            int mid=(lo+hi)/2;
+            if(arr[mid] == target) return mid;
+            if(arr[mid]>=arr[lo]){
+                if(arr[lo]<=target && target<=arr[mid]) hi=mid-1;
+                else lo=mid+1;
+            }else{
+                if(target<=arr[hi] && arr[mid]<=target) lo=mid+1;
+                else hi=mid-1;
+            }
         }
         return -1;
     }

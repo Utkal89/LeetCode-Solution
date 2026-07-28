@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Utkal89/LeetCode-Solution/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Utkal89/LeetCode-Solution/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Utkal89/LeetCode-Solution/tree/master/0268-missing-number) |
+| [0441-arranging-coins](https://github.com/Utkal89/LeetCode-Solution/tree/master/0441-arranging-coins) |
 ## Two Pointers
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Utkal89/LeetCode-Solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Utkal89/LeetCode-Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Utkal89/LeetCode-Solution/tree/master/0268-missing-number) |
+| [0441-arranging-coins](https://github.com/Utkal89/LeetCode-Solution/tree/master/0441-arranging-coins) |
 | [0475-heaters](https://github.com/Utkal89/LeetCode-Solution/tree/master/0475-heaters) |
 | [0704-binary-search](https://github.com/Utkal89/LeetCode-Solution/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Utkal89/LeetCode-Solution/tree/master/0852-peak-index-in-a-mountain-array) |

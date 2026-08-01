@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Utkal89/LeetCode-Solution/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Utkal89/LeetCode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Utkal89/LeetCode-Solution/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Utkal89/LeetCode-Solution/tree/master/0283-move-zeroes) |
 | [0475-heaters](https://github.com/Utkal89/LeetCode-Solution/tree/master/0475-heaters) |
 | [0494-target-sum](https://github.com/Utkal89/LeetCode-Solution/tree/master/0494-target-sum) |
 | [0704-binary-search](https://github.com/Utkal89/LeetCode-Solution/tree/master/0704-binary-search) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Utkal89/LeetCode-Solution/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Utkal89/LeetCode-Solution/tree/master/0283-move-zeroes) |
 | [0475-heaters](https://github.com/Utkal89/LeetCode-Solution/tree/master/0475-heaters) |
 ## Hash Table
 |  |

@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Utkal89/LeetCode-Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Utkal89/LeetCode-Solution/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Utkal89/LeetCode-Solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/Utkal89/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Utkal89/LeetCode-Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/Utkal89/LeetCode-Solution/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Utkal89/LeetCode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Utkal89/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Utkal89/LeetCode-Solution/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Utkal89/LeetCode-Solution/tree/master/0283-move-zeroes) |
 | [0475-heaters](https://github.com/Utkal89/LeetCode-Solution/tree/master/0475-heaters) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Utkal89/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Utkal89/LeetCode-Solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Utkal89/LeetCode-Solution/tree/master/0268-missing-number) |
 | [0475-heaters](https://github.com/Utkal89/LeetCode-Solution/tree/master/0475-heaters) |

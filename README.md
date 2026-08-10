@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Utkal89/LeetCode-Solution/tree/master/0494-target-sum) |
 | [0704-binary-search](https://github.com/Utkal89/LeetCode-Solution/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Utkal89/LeetCode-Solution/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0867-transpose-matrix](https://github.com/Utkal89/LeetCode-Solution/tree/master/0867-transpose-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/Utkal89/LeetCode-Solution/tree/master/1539-kth-missing-positive-number) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Utkal89/LeetCode-Solution/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Math
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Utkal89/LeetCode-Solution/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Utkal89/LeetCode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
+| [0867-transpose-matrix](https://github.com/Utkal89/LeetCode-Solution/tree/master/0867-transpose-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -101,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Utkal89/LeetCode-Solution/tree/master/0242-valid-anagram) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/Utkal89/LeetCode-Solution/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->

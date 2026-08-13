@@ -6,7 +6,6 @@ class Solution {
                mat[j][i]=matrix[i][j];
             }
         }
-       // int left =0,right=matrix.length-1;
         for(int i=0;i<matrix.length;i++){
             int left =0,right=matrix.length-1;
         while(left<right){

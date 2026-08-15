@@ -1,6 +1,6 @@
 class Solution {
     public int lengthOfLongestSubstring(String s) {
-        int[] freq = new int[256];
+        int[] freq = new int[200];
         int i=0;
         int j=0;
         int maxLen=0;

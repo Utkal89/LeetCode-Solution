@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Utkal89/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/Utkal89/LeetCode-Solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Utkal89/LeetCode-Solution/tree/master/0268-missing-number) |
 ## Binary Search
@@ -107,9 +108,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Utkal89/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/Utkal89/LeetCode-Solution/tree/master/0242-valid-anagram) |
 ## Simulation
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/Utkal89/LeetCode-Solution/tree/master/0867-transpose-matrix) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Utkal89/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
